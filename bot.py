@@ -31,4 +31,4 @@ async def yapımcı(msg):
     await msg.send('Yapımcım: Kerem Özdilsiz. Ulaşmak için İnstagram:@keremozdilsizdir')
 
 
-Bot.run('OTIxNzc3Mzg4NjYzMjM0NjAw.Yb32Fw.7NGKM4_FQaIUnjz287vjUXwywlA')
+Bot.run('')
